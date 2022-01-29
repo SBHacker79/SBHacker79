@@ -1,4 +1,4 @@
-<img align="center" src="https://teeltechcanada.com/2015/wp-content/uploads/2017/07/hacker-banner.jpg"/></a>
+<img src="di.jpg">
 <!--
 **SBHacker79/SBHacker79** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
