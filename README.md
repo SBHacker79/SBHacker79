@@ -15,5 +15,5 @@
 <img src="https://img.shields.io/badge/terminal%20commands-black?style=for-the-badge&logo=windows%20terminal&logoColor=white" alt="terminal" />
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github" />
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SBHacker79&how_icons=true&theme=radical)
+![SBHacker79's GitHub stats](https://github-readme-stats.vercel.app/api?username=SBHacker79&how_icons=true&theme=radical)
 
